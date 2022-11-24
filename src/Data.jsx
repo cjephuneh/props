@@ -1,4 +1,4 @@
-export Default[
+export default[
     {
         id:1,
         title: "This is our love story",
@@ -36,4 +36,4 @@ export Default[
         rating: 5.0,
     },
 
-    ]
+]
