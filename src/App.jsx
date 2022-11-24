@@ -3,10 +3,20 @@ import './App.css'
 
 function App() {
    return (
-    <div className="App">
-      <img src='./assets/logo.png'className="logo react" alt="React logo" />
+    <section className="booklist">
       <Book />
-    </div>
+      <Book />
+      <Book />
+      <Book />
+      <Book />
+      <Book />
+      <Book />
+      <Book />
+      <Book />
+      <Book />
+      <Book />
+      <Book />
+    </section>
   )
 }
 
