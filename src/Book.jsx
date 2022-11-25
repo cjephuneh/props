@@ -1,4 +1,6 @@
-const Book = () => {
+const Book = (props) => {
+    console.log
+    
     return(
         <div className="book">
             <img src='./assets/logo.png'className="logo" alt="React logo" />
